@@ -1,2 +1,0 @@
-# daniways
-my website
